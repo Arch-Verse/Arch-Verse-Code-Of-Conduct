@@ -1,0 +1,19 @@
+[project]
+name = "archverse-coc"
+version = "0.1.0"
+requires-python = ">= 3.1.2"
+license-files = ["LICENSE"]
+readme = "README.md"
+dependencies = [
+    "Jinja2>=3.1.6"
+]
+
+[project.scripts]
+"gen-coc" = "archverse_coc:main"
+
+[project.urls]
+homepage = "https://github.com/Arch-Verse/Arch-Verse-Code-Of-Conduct"
+
+[build-system]
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build_meta"
