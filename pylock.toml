@@ -1,0 +1,30 @@
+lock-version = "1.0"
+created-by = "pip"
+
+[[packages]]
+name = "archverse-coc"
+
+[packages.directory]
+path = "."
+
+[[packages]]
+name = "jinja2"
+version = "3.1.6"
+
+[[packages.wheels]]
+name = "jinja2-3.1.6-py3-none-any.whl"
+url = "https://files.pythonhosted.org/packages/62/a1/3d680cbfd5f4b8f15abc1d571870c5fc3e594bb582bc3b64ea099db13e56/jinja2-3.1.6-py3-none-any.whl"
+
+[packages.wheels.hashes]
+sha256 = "85ece4451f492d0c13c5dd7c13a64681a86afae63a5f347908daf103ce6d2f67"
+
+[[packages]]
+name = "markupsafe"
+version = "3.0.2"
+
+[[packages.wheels]]
+name = "MarkupSafe-3.0.2-cp313-cp313-win_amd64.whl"
+url = "https://files.pythonhosted.org/packages/29/88/07df22d2dd4df40aba9f3e402e6dc1b8ee86297dddbad4872bd5e7b0094f/MarkupSafe-3.0.2-cp313-cp313-win_amd64.whl"
+
+[packages.wheels.hashes]
+sha256 = "e6a2a455bd412959b57a172ce6328d2dd1f01cb2135efda2e4576e8a23fa3b0f"
