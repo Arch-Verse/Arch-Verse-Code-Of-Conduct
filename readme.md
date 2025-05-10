@@ -1,7 +1,10 @@
+<!-- This is not the place to write rules/definitions in! Please look at sections/ when you want to add new rules/definitions. -->
+
 # "Archverse Community" Code of Conduct
 
 ## Definitions
 
+- **Archverse**: the Archverse Discord server, and/or any server that it might get renamed to or merged into in the future.
 
     - **Archverse**: The Archverse Discord server, and/or any server that it might get renamed to or merged into in the future.
 
@@ -41,22 +44,21 @@ By meeting the age requirements, you are not granted the rights to use restricte
 
 We do not tolerate any form of discrimination based on a person's:
 
-- 1. Gender
-- 2. Sexuality
-- 3. Race
-- 4. Religion
-- 5. Ethnicity
-- 6. Nationality
-- 7. Language
-- 8. Age
-- 9. Body size
-- 10. Disabilities
-- 11. And other aspects of their identity.
+1. Gender
+2. Sexuality
+3. Race
+4. Religion
+5. Ethnicity
+6. Nationality
+7. Language
+8. Age
+9. Body size
+10. Disabilities
+11. And other aspects of their identity.
 
 ## Community Rules
 
 **By joining, you acknowledge that you abide to the following rules:**
-
 
 1. **NSFW content is not allowed**
 NSFW is strictly forbidden in all of its forms. Do not attempt to bypass this requirement. We are an open and welcoming community, that targets a varied age range, and we want to keep a safe environment for everyone here. You may read the [Cornell Law website](https://www.law.cornell.edu/uscode/text/18/2256) for legal information
@@ -83,8 +85,8 @@ You may report any rule breaking situation and the infractors will be sanctioned
 You may notify staff and it's moderation team, by opening a ticket with the `/tickets open` command.
 **Respect the privacy of others.**
 
-# You may not attempt to bypass or find loopholes to the aforementioned rules.
-  **any attempt to do so, will result on moderation actions, and sactions according to the gravity of the offense.**
+**You may not attempt to bypass or find loopholes to the aforementioned rules.**
+**Any attempt to do so, will result on moderation actions, and sactions according to the gravity of the offense.**
 
 
 ## Contributing:
