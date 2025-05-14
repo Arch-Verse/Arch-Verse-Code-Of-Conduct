@@ -101,8 +101,7 @@ You may notify staff and/or the moderation team by opening a ticket with the `/t
 
 ## Contributing:
 
-This Code Of Conduct is written by humans. You may contribute to it by creating an issue tracker/pull request on
-https://github.com/Arch-Verse/Arch-Verse-Code-Of-Conduct/tree/master
+This Code Of Conduct is written by humans. You may contribute to it by creating an issue tracker/pull request.
 
 <!-- this is never gonna render in the readme, so here i go: -->
 <!-- made and written with love on neovim. Original document by @ingenarel, revision by hazelshantz -->
