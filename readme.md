@@ -1,3 +1,12 @@
+# arch-verse got rebranded to cli-cafe!!!!!!
+
+here's the new invite link: discord.gg/cli-cafe
+
+I'm also not affliated with the team anymore that much.
+No beef or anything, i'm just busy with life and personal projects and depression and all that, djinzi and the mods are still really good friends.
+I also made a new server which you can check out: https://discord.gg/zU6BFKBdyC
+
+
 # "Archverse Community" Code of Conduct
 
 ### 1. Definitions:
